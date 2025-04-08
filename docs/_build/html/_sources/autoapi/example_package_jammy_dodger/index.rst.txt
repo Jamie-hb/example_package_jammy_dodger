@@ -1,0 +1,15 @@
+example_package_jammy_dodger
+============================
+
+.. py:module:: example_package_jammy_dodger
+
+
+Submodules
+----------
+
+.. toctree::
+   :maxdepth: 1
+
+   /autoapi/example_package_jammy_dodger/example_package_jammy_dodger/index
+
+

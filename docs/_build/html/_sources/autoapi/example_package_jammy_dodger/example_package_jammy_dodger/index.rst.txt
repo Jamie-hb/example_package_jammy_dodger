@@ -1,0 +1,28 @@
+example_package_jammy_dodger.example_package_jammy_dodger
+=========================================================
+
+.. py:module:: example_package_jammy_dodger.example_package_jammy_dodger
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   example_package_jammy_dodger.example_package_jammy_dodger.add_one
+
+
+Module Contents
+---------------
+
+.. py:function:: add_one(number: float) -> float
+
+   Adds one to a number.
+
+   :param number: addand
+   :type number: float
+
+   :returns: one more than input number
+   :rtype: float
+
+
