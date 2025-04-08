@@ -1,0 +1,19 @@
+[build-system]
+requires = ['hatchling >= 1.26']
+build-backend = 'hatchling.build'
+
+[project]
+name = 'example_package_jammy_dodger'
+version = '0.1.0'
+authors = [
+	{name='James Boyle', email='james.boyle@maths.ox.ac.uk'},
+]
+description = 'A simple package for adding one.'
+readme = 'README.md'
+requires-python = '>=3.8'
+classifiers = [
+	'Programming Language :: Python :: 3',
+	'Operating System :: OS Independent',
+]
+license = 'MIT'
+license-files = ['LICEN[CS]E*']
