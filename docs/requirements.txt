@@ -1,4 +1,3 @@
-myst-parser
+myst-nb
 sphinx-rtd-theme
-sphinx-prompt
-sphinx-copybutton
+sphinx-autoapi
